@@ -1,0 +1,6 @@
+﻿1. SeriesEpisode Equals() method
+2. Series ValidateEpisodes() When I look for already existing episodes in new Set should I throw an Exception if there is at least one 
+   OR should I skip duplicate episodes and add those which are new without Exception?
+3. Should Series Series getter return new(Series) object of the class (copy) to be unmodiffiable outside of the class or not?
+4. Series RemoveEpisode() Is having at least one element in the list is still necessary??
+5. Are there any necessary fields or mandatory attributes to be included in the constructor?? (For instance, ActorsCast in the Movie.cs constructor??)

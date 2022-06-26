@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\bin\Debug\net5.0\MiniProject1.exe
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\bin\Debug\net5.0\MiniProject1.deps.json
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\bin\Debug\net5.0\MiniProject1.runtimeconfig.json
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\bin\Debug\net5.0\MiniProject1.runtimeconfig.dev.json
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\bin\Debug\net5.0\MiniProject1.dll
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\bin\Debug\net5.0\ref\MiniProject1.dll
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\bin\Debug\net5.0\MiniProject1.pdb
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\obj\Debug\net5.0\MiniProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\obj\Debug\net5.0\MiniProject1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\obj\Debug\net5.0\MiniProject1.AssemblyInfo.cs
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\obj\Debug\net5.0\MiniProject1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\obj\Debug\net5.0\MiniProject1.dll
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\obj\Debug\net5.0\ref\MiniProject1.dll
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\obj\Debug\net5.0\MiniProject1.pdb
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\obj\Debug\net5.0\MiniProject1.genruntimeconfig.cache
+C:\Users\User\Desktop\MAS\MiniProject1_solution\MiniProject1\obj\Debug\net5.0\MiniProject1.csproj.AssemblyReference.cache
