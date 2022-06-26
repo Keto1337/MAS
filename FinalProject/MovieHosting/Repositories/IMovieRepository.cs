@@ -1,0 +1,15 @@
+﻿using MovieHosting.DTO;
+using MovieHosting.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MovieHosting.Repositories
+{
+    public interface IMovieRepository
+    {
+        Movie GetMovieById(int idMovie);
+    }
+}
